@@ -1,0 +1,35 @@
+img{
+    display: inline-block;
+    width: 237px;
+    margin: 30px 30px 116px 30px;
+    border: 10px solid black;
+    display: inline-block;
+    position: relative;
+}
+#wrapper{
+    padding-left: 50px;
+}
+#houseDtl{
+    border: 2px solid black;
+    width: 800px;
+    height: 500px;
+    margin: 0px auto;
+    padding-left: 30px;
+}
+h4{
+    position: relative;
+    top: -35px;
+    left: 10px;
+    background-color: white;
+    display: inline-block;
+    font-size: 18px;
+}
+
+
+#houseDtl p:last-child{
+    display: inline-block;
+    width: 500px;
+}
+p{
+    font-size: 20px;
+}
